@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TDD / BDD Practice Code
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -65,3 +66,6 @@ Then exit that terminal and open a new one to activate the virtual environment.
 [John Rofrano](https://www.linkedin.com/in/JohnRofrano/), Senior Technical Staff Member, DevOps Champion, @ IBM Research
 
 ## <h3 align="center"> © IBM Corporation 2022, 2023. All rights reserved. <h3/>
+=======
+# tdd_bdd_PracticeCode
+>>>>>>> 7cf4091f9e8115cf6a2c2446be3997b3548081d5
