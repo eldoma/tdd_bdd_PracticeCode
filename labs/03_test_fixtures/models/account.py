@@ -52,6 +52,7 @@ class Account(db.Model):
         logger.info("Deleting %s", self.name)
         db.session.delete(self)
         db.session.commit()
+        
 
     ##################################################
     # CLASS METHODS
