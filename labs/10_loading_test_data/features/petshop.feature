@@ -6,10 +6,10 @@ So that I only see the category of the pet I am interested in buying
 
 Background:
     Given the following pets
-        | name       | category | available | gender  | birthday   |
-        | Fido       | dog      | True      | MALE    | 2019-11-18 |
-        | Kitty      | cat      | True      | FEMALE  | 2020-08-13 |
-        | Leo        | lion     | False     | MALE    | 2021-04-01 |
+        | name    | category | available |
+        | Fido    | dog      | True      |
+        | Kitty   | cat      | True      |
+        | Leo     | lion     | False     |
 
 Scenario: Search for dogs
     Given I am on the "Home Page"
